@@ -1,5 +1,7 @@
 # Panazon
 
+You can view the test app online [here](https://panazon.herokuapp.com/)
+
 This application is an improved version of Amazon according to Pan's vision. It implements a social network within an e-commerce platform.
 
 ## Contributors
