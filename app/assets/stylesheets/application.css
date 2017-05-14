@@ -53,43 +53,42 @@ h3 {
   padding: 0;
 }
 
- /*#nav-container{
+/*#nav-container{
    width: 100%;
-;
- }
+}
 
 nav.navbar navbar-default {
   background-color: #ffcc99;
 }
 
- ul.nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    border: 1px solid #e7e7e7;
-    background-color: #ffcc99;
+ul.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #ffcc99;
 }
 
 li.nav-li-link {
-    float: left;
+  float: left;
 }
 
 li a {
-    display: block;
-    color: #666;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 li a:hover:not(.active) {
-    background-color: #fff2e6;
+  background-color: #fff2e6;
 }
 
 li a.active {
-    color: white;
-    background-color: #fff2e6;
+  color: white;
+  background-color: #fff2e6;
 }
 
 ul.error_messages {
@@ -118,13 +117,12 @@ form {
   background-color:#fafafa;
   color:#207cca;
 }*/
- /*****************NAV BAR**********************/
+/*****************NAV BAR**********************/
 
- /*****************Homepage**********************/
+/*****************Homepage**********************/
 #homepage-container{
   width: 100%;
   height: 800px;
-;
 }
 
 #homepage-column-headers{
@@ -134,7 +132,7 @@ margin-bottom: 10px;
 
 #categorylist-left-column{
   background-color: #ffcc99;
-  margin: 1%
+  margin: 1%;
   width: 100%;
   height: inherit;
 
@@ -168,9 +166,9 @@ ul.cat-list{
 }
 
 li.link-category-list-item a{
-    display: block;
-    padding: 16px;
-    text-decoration: none;
+  display: block;
+  padding: 16px;
+  text-decoration: none;
 }
 #categorylist-left-column{
 width: 24.344%;
@@ -184,28 +182,28 @@ ul.item-list{
 }
 
 li a {
-    display: block;
-    padding: 16px;
-    text-decoration: none;
+  display: block;
+  padding: 16px;
+  text-decoration: none;
 }
   /*****************Homepage**********************/
 
 
   /*****************Footer**********************/
-  #navFooter {
-      margin: 30px 0 8px 0;
-      padding: 0 0 7px 0;
-      background-color: #fff2e6;
-  }
+#navFooter {
+  margin: 30px 0 8px 0;
+  padding: 0 0 7px 0;
+  background-color: #fff2e6;
+}
 
-  #navFooter.navLeftFooter {
-    margin-bottom: 0;
-    padding-bottom: 0;
-    background-color: #fff2e6;
-    min-width: 100%;
-    position: relative;
+#navFooter.navLeftFooter {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  background-color: #fff2e6;
+  min-width: 100%;
+  position: relative;
 
 }
-  /*****************Footer**********************/
+/*****************Footer**********************/
 
 /*****************HOMEPAGE STYLING**********************/
